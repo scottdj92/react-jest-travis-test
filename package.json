@@ -1,0 +1,20 @@
+{
+  "name": "react-jest-travis-test",
+  "version": "1.0.0",
+  "description": "a test react app using jest and travis CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Scott Jones",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-jest": "^18.0.0",
+    "babel-preset-react": "^6.16.0"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
